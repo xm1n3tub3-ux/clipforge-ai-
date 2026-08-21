@@ -1,0 +1,16 @@
+cookies.txt
+.env
+downloads/
+clips/
+transcripts/
+audio/
+logs/
+whisper.cpp/
+llama.cpp/
+*.bin
+*.gguf
+*.mp4
+*.wav
+*.vtt
+*.srt
+__pycache__/
