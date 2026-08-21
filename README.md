@@ -17,3 +17,7 @@ Open http://127.0.0.1:5000
 ## AI & Cookies
 - Run `bash setup.sh` once — it builds whisper.cpp + llama.cpp, downloads the free local AI model, and writes `.env`.
 - `cookies.txt` is **device-only**: export your YouTube cookies in the browser on the device and save to `~/clipper/cookies.txt`. It is git-ignored on purpose — session cookies never belong in any git repo, private or public.
+
+## AI & Cookies
+- Run `bash setup.sh` once — it builds whisper.cpp + llama.cpp, downloads the free local AI model, and writes `.env`.
+- `cookies.txt` is **device-only**: export your YouTube cookies in the browser on the device and save to `~/clipper/cookies.txt`. It is git-ignored on purpose — session cookies never belong in any git repo, private or public.
